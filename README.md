@@ -114,7 +114,7 @@ Customer-Shopping-Behavior-Analysis/
 - Demonstrates end-to-end **data analytics workflow**
 - Combines **Python, SQL, and BI tools**
 - Business-focused insights & recommendations
-- Suitable for **Data Analyst / Business Analyst fresher roles**
+
 
 ---
 
