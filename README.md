@@ -35,7 +35,7 @@ A retail company observed changes in customer purchasing patterns across demogra
 
 ## 🛠️ Tools & Technologies
 - **Python** (Pandas, NumPy)
-- **SQL** (MS SQL Server / PostgreSQL)
+- **SQL** (MS SQL Server)
 - **Power BI**
 - **GitHub**
 
